@@ -1,0 +1,363 @@
+Welcome to Epic React
+Project READMEs and Pre Reqs
+Clone and Setup
+Running the Epic React Workshop App
+File Structure
+Running Tests
+Example Runthrough
+React Fundamentals Welcome
+Basic JS Hello World
+Generate DOM Nodes Extra Credit Solution
+Generate DOM Nodes Extra Extra Credit
+Intro to Raw React APIs
+Raw React APIs Solution
+Nesting Elements Extra Credit Solution
+Break Time
+Using JSX
+Write Markup with JSX Solution
+Interpolate className and Children Extra Credit Solution 01
+Spread Props Extra Credit Solution 02
+Creating Custom Components
+Render JSX From Functions Solution
+ReactcreateElement Extra Credit Solution 01
+JSX Extra Credit Solution 02
+Validation with PropTypes Extra Credit Solution 03
+Use proptypes Package Extra Credit Solution 04
+React Fragments Extra Credit Solution 05
+Styling
+style Prop Solution
+Create a Custom Component Extra Credit Solution 01
+Accept a Size Prop to Encapsulate Styling Extra Credit Solution 02
+Break Time
+Forms
+Form Basics
+Using refs Extra Credit Solution 01
+Validate lowercase Extra Credit Solution 02
+Control the Input Value Extra Credit Solution 03
+Rendering Arrays
+Render Arrays Solution
+Focus demo Extra Credit Solution 01
+React Fundamentals Outro
+React Hooks Welcome
+useState greeting
+Set State in React Solution
+Set Initial Values Through Props Extra Credit Solution
+useEffect persistent state
+localStorage useEffect Solution
+Lazy State Initialization Extra Credit Solution 1
+Effect Dependencies Extra Credit Solution 2
+Custom Hook Extra Credit Solution 3
+Flexible localStorage Hook Extra Credit Solution 4
+Hooks Flow
+Lifting state
+Lift State Solution
+Colocate State Extra Credit Solution
+useState tic tac toe
+Managed and Derived State Solution
+Preserve State in localStorage Extra Credit Solution 1
+useLocalStorageState Custom Hook Extra Credit Solution 2
+Add Game History Feature Extra Credit Solution 3
+Class Refactor
+useRef and useEffect DOM interaction
+Solution
+Class Refactor
+Break Time
+useEffect HTTP requests
+Fetch Data
+Handle Errors Extra Credit Solution 1
+Use a status Extra Credit Solution 2
+Store the State in an Object Extra Credit Solution 3
+ErrorBoundary Component Extra Credit Solution 4
+Remount the ErrorBoundary Extra Credit Solution 5
+Use reacterrorboundary Extra Credit Solution 6
+Reset the ErrorBoundary Extra Credit Solution 7
+use resetKeys Extra Credit Solution 8
+React Hooks Outro
+Advanced React Hooks Welcome
+useReducer simple Counter
+Simple Counter Solution
+Accept Step as Action Extra Credit Solution 1
+setState with Object Extra Credit Solution 2
+Object or Function Extra Credit Solution 3
+Traditional Dispatch Object Extra Credit Solution 4
+useCallback custom hooks
+Extract Logic into Hook Solution
+useCallback for Memoization Extra Credit Solution 1
+Return Memoized run Function Extra Credit Solution 2
+Make safeDispatch Extra Credit Solution 3
+useContext simple Counter
+CountProvider Solution
+Create a Consumer Hook Extra Credit Solution 1
+Caching in Context Provider Extra Credit Solution 2
+useLayoutEffect autogrowing textarea
+useLayoutEffect Solution
+useImperativeHandle scroll to topbottom
+Scroll to TopBottom Solution
+useDebugValue useMedia
+Label useDebugValue Solution
+Use the Format Function Extra Credit Solution 1
+Advanced React Hooks Outro
+Advanced React Patterns Welcome
+Context Module Functions
+Extract Helper Function Solution
+Compound Components
+Refactor Toggle Solution
+Support DOM Component Children Extra Credit Solution 1
+Flexible Compound Components
+Extract State into Context Solution
+Custom Hook Validation Extra Credit Solution 1
+Prop Collections and Getters
+Object of Props Solution
+Prop Getters Extra Credit Solution 1
+State Reducer
+Inversion of Control Solution
+Default State Reducer Extra Credit Solution 1
+State Reducer Action Types Extra Credit Solution 2
+Control Props
+Control State with on and onChange Solution
+Add Read Only Warning Extra Credit Solution 1
+Add a Controlled State Warning Extra Credit Solution 2
+Extract Warnings to a Custom Hook Extra Credit Solution 3
+Dont Warn in Production Extra Credit Solution 4
+Advanced React Patterns Outro
+React Performance Welcome
+Code Splitting
+Code Split Solution
+Eager Loading Extra Credit Solution 1
+Webpack Magic Comments Extra Credit Solution 2
+Suspense Position
+Coverage Tool
+useMemo for Expensive Calculations
+Wrap a Function in useMemo Solution
+Production Mode Extra Credit Solution 1
+getItems Web Worker Extra Credit Solution 2
+Reactmemo for Reducing rerenders
+Memoize Components Solution
+Custom Comparator Extra Credit Solution 1
+Primitive Values Extra Credit Solution 2
+Window Large Lists with reactvirtual
+Render Large Lists Solution
+Optimize Context Value
+Memoize Context Value Solution
+Separate the Contexts Extra Credit Solution 1
+Fix Perf Death by a Thousand Cuts
+Colocate State Solution
+Separate Contexts Extra Credit Solution 1
+Consuming Components Extra Credit Solution 2
+Slice of App State Extra Credit Solution 3
+Use recoil Extra Credit Solution 4
+Production Performance Monitoring
+Add Performance Monitoring Solution
+Use Trace API Extra Credit Solution 1
+React Performance Outro
+Testing React Apps Welcome
+Simple Test with ReactDOM
+Render Counter Component Solution 1
+Test Counter Component Solution 2
+Increment and Decrement Buttons Solution 3
+Cleaning up Test Environments Solution 4
+Add use dispatchEvent Extra Credit Solution 1
+Simple Test with React Testing Library
+Rendering Solution 1
+Firing Events Solution 2
+Accretions Extra Credit Solution 1
+Avoid Implementation Details
+Screen Utility Solution
+Browser Interactions  Extra Credit Solution 1
+Form Testing
+Exposes a Debug Method to Test Elements Solution 1
+Jest Mock Solution 2
+Abstract Variables Extra Credit Solution 1
+Jest Mock Functions Extra Credit Solution 2
+Generate Test Data Extra Credit Solution 3
+Allow for Overrides Extra Credit Solution 4
+Mocking HTTP Requests
+Mock Service Worker Solution 1
+Mocked Responses Solution 2
+Reuse Server Request Handlers Extra Credit Solution 1
+Unhappy Path Extra Credit Solution 2
+Use Inline Snapshots Extra Credit Solution 3
+Use Oneoff Server Handlers Extra Credit Solution 4
+Mocking Browser APIs and Modules
+Mock Geolocation Solution 1
+Act Function Solution 2
+Mock the module Extra Credit Solution 1
+Context and Custom Render Method
+Wrapper Component Solution
+Dark Theme Extra Credit Solution 1
+Render Method Extra Credit Solution 2
+App Test Utils Extra Credit Solution 3
+Testing Custom Hooks
+Test Functionality of Custom Hook Solution
+Fake Component Extra Credit Solution 1
+Setup Function Extra Credit Solution 2
+Using ReactHooks Testing Library Extra Credit Solution 3
+Testing React Apps Outro
+React Suspense Welcome
+Concurrent Mode
+Simple DataFetching
+ReactSuspense Solution
+Handle Error with Error Boundary Extra Credit Solution 1
+Make More Generic createResource Extra Credit Solution 2
+Use utils Extra Credit Solution 3
+Render as You Fetch
+Refactor PokemonInfo Solution
+Error Boundary Positioning Extra Credit Solution 1
+useTransition
+startTranistion and isPending Solution
+Use CSS Transitions Extra Credit Solution 1
+Avoid Flash of Loading Content Extra Credit Solution 2
+Cache Resources
+Cache an Object Solution
+Put Cache in Context Extra Credit Solution 1
+Create a Context Provider Extra Credit Solution 2
+Add Cache Timeout Extra Credit Solution 3
+Suspense Image
+Suspend an Image Component Solution
+Avoid Waterfall Extra Credit Solution 1
+Render as You Fetch Extra Credit Solution 2
+Suspense with a Custom Hook
+Create a Custom Suspense Hook Solution
+Reuse PreBuilt Hook Extra Credit Solution 1
+Coordinate Suspending Components with SuspenseList
+Load States Solution
+React Suspense Outro
+Build an Epic React App Welcome
+ Walkthrough of Project Setup
+ Render a React App
+ Render Logo and Title Solution
+ Use reachdialog Extra Credit Solution 01
+ Create a LoginForm Component Extra Credit Solution 02
+ Add Styles
+ Style a Button with Variants Solution 01
+ Style Input and Formgroup Solution 02
+ Style with Emotion CSS Prop Solution 03
+ Use the Emotion Macro Extra Credit Solution 01
+ Use Colors and Media Queries File Extra Credit Solution 02
+ Make a Loading Spinner Component Extra Credit Solution 03
+ Make HTTP Requests
+ Query Data with useEffect Solution 01
+ Query Data with useEffect Solution 02
+ Handle Failed Requests Extra Credit Solution 01
+ Use the useAsync Hook Extra Credit Solution 02
+ Authentication
+ Wire up Authentication Solution
+ User Data on Page Load Extra Credit Solution 01
+ Use useAsync Extra Credit Solution 02
+ Automatically Logout on 401 Extra Credit Solution 03
+ Support Posting Data Extra Credit Solution 04
+ Routing
+ Handle Routing Solution
+ Handle URL Redirects Extra Credit Solution01
+ Add useMatch to Highlight the Active Nav Item Extra Credit Solution02
+ Cache Management
+ Create listItems with React Query useMutation Solution 01
+ View listItems with React Query useQuery Solution 02
+ Remove listItems with useMutation Solution 03
+ Update listItems with useMutations Solution 04
+ View listItem Data in BookRow with useQuery Solution 05
+ Update a Book Rating with useMutation Solution 06
+ Refactor useAsync to useQuery Solution 07
+ Load and Persist Book Data with useQuery Solution 08
+ Query with useQuery for listItems in ListItemList Solution 09
+ Clear queryCache on User Logout Solution 10
+ Create useBookSearch Custom Hook Extra Credit Solution 0101
+ Create a useBook Custom Hook Extra Credit Solution 0102
+ Create useListItems Custom Hook Extra Credit Solution 0103
+ Reuse Mutation Logic in a Custom Extra Credit Solution 0104
+ Reuse Custom Hooks to Reduce Code Extra Credit Solution 0105
+ Create and Remove Custom Hook Extra Credit Solution 0106
+ useMatch highlight active nav item Extra Credit Solution 02
+ Show Error When Request Fails Extra Credit Solution 0301
+ React Query Custom Error Handling Extra Credit Solution 0302
+ Add a Loading Spinner for the Notes Extra Credit Solution 04
+ Prefetch the Book Search Query Extra Credit Solution 05
+ Add Books to the Query Cache Extra Credit Solution 06
+ Add Optimistic Updates and Recovery Extra Credit Solution 07
+ Context
+ Create and Provide an AuthContext Solution 01
+ Grab a Value from Context in a Hook Solution 02
+ Use Context Value in ListItem Hooks and AuthenticatedApp Solution 03
+ Expose User Context Value to refetchBookSearchQuery Solution 04
+ Create a useAuth Hook Extra Credit Solution 01
+ Create an AuthProvider Component Extra Credit Solution 02
+ Colocate Global Providers Extra Credit Solution 03
+ Create a useClient Hook Extra Credit Solution 04
+ Compound Components
+ Create Compound Components for a Flexible Modal Solution
+ Add callAll Extra Credit Solution 01
+ Create ModalContentsBase Extra Credit Solution 02
+ Performance
+ Improve the Time to First Meaningful Paint Solution
+ Prefetch the Authenticated App Extra Credit Solution 01
+ Memoize Context Extra Credit Solution 02
+ Custom ReactProfiler to Moninitor App Extra Credit Solution 0301
+ Add Metadata and Profile Book Screen Extra Credit Solution 0302
+ List Item List and Discover Sceen List Extra Credit Solution 0303
+ Add Profiling to Production Builds Extra Credit Solution 0304
+ Add Interaction Tracing Extra Credit Solution 0401
+ Profile All Updates in an Interaction Extra Credit Solution 0402
+ Render as You Fetch
+ Fetch User before AuthProvider Mounts Solution
+ Preload All Initial Data Extra Credit Solution 01
+ Unit Testing
+ Test formatDate Solution 01
+ Set up a Server to Test Requests Solution 02
+ Test if a Request has an Auth Header Solution 03
+ Client Request Config Overrides Solution 04
+ POST by Default when Body Present and Stringified Solution 05
+ Automatic Log Out on 401 Error Extra Credit Solution 0101
+ Ensure Promise Rejects on Error Extra Credit Solution 0102
+ Use setupTestsjs Extra Credit Solution 02
+ Testing Hooks and Components
+ Modal Compound Components Solution 01
+ Set up useAsync Test with renderHook Solution 02
+ Wrap an act around an async Function Solution 03
+ Add an async act to Resolve a Promise Solution 04
+ Reset React State in a Test Solution 05
+ Call Run with a Promise That Resolved Solution 06
+ Can Specify an Initial State Solution 07
+ Can Set the Data Solution 08
+ No State Updates if Unmounted Solution 09
+ Call run without Promise Errors Solution 10
+ AHA Testing Extra Credit Solution 01
+ Integration Testing
+ Render the Application with AppProviders Solution 01
+ Wait for Loading Element to Be Removed Solution 02
+ Reverseengineer AuthProvider and Log In Solution 03
+ Render a Book Page in a Test Solution 04
+ Test What UI Elements are Present Solution 05
+ Isolate Tests by Cleaning up State and Cache Solution 06
+ Create Mock msw Server Extra Credit Solution 01
+ Write Second Integration Test Extra Credit Solution 02
+ Abstract Functionality Extra Credit Solution 0301
+ Custom Render Function Extra Credit Solution 0302
+ Global Utils Extra Credit Solution 04
+ Can Remove List Item for Book Extra Credit Solution 0501
+ Can Mark a List Item as Read Extra Credit Solution 0502
+ Can Edit a Note Extra Credit Solution 0503
+ Use Jest Fake Timers Extra Credit Solution 0504
+ Set up Mock Profiler for Tests Extra Credit Solution 0505
+ Create ComponentSpecific Utility Extra Credit Solution 06
+ Show Error when Load Fails Extra Credit Solution 0701
+ Scope Hooks to Describe Block Extra Credit Solution 0702
+ Update Failures are Displayed Extra Credit Solution 0703
+ E2E Testing
+ Register a User in Cypress Solution 01
+ Find and Add a Book to Reading List Solution 02
+ Mark Book as Read and Rate Solution 03
+ Remove Book from Reading List Solution 04
+ Build an Epic React App Outro
+ Creating Open Source Libraries with Tanner Linsley
+Animations and Interactions with Josh Comeau
+Nextjs and Vercel with Guillermo Rauch
+Building Reactbased Design Systems with Ben Ilegbodu
+The React Ecosystem with Tejas Kumar
+Encapsulation and Styling with Michael Chan
+3D Animation in the Browser with Paul Henschel
+Best Practices for Maintainers with Jenn Creighton
+Breaking into Tech with Samantha Bretous
+Best Practices of ServerSide Rendering with Monica Powell
+Mock Service Worker MSW with Artem Zakharchenko
+React and React Native documentation with Rachel Nabors
+React Developer Tools with Brian Vaughn

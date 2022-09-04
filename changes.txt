@@ -1,0 +1,1089 @@
+Old Dir lesson01.mp4
+New Dir lesson01.mp4 - Welcome to Epic React
+
+Old Dir lesson02.mp4
+New Dir lesson02.mp4 - Project READMEs and Pre Reqs
+
+Old Dir lesson03.mp4
+New Dir lesson03.mp4 - Clone and Setup
+
+Old Dir lesson04.mp4
+New Dir lesson04.mp4 - Running the Epic React Workshop App
+
+Old Dir lesson05.mp4
+New Dir lesson05.mp4 - File Structure
+
+Old Dir lesson06.mp4
+New Dir lesson06.mp4 - Running Tests
+
+Old Dir lesson07.mp4
+New Dir lesson07.mp4 - Example Runthrough
+
+Old Dir lesson08.mp4
+New Dir lesson08.mp4 - React Fundamentals Welcome
+
+Old Dir lesson09.mp4
+New Dir lesson09.mp4 - Basic JS Hello World
+
+Old Dir lesson10.mp4
+New Dir lesson10.mp4 - Generate DOM Nodes Extra Credit Solution
+
+Old Dir lesson11.mp4
+New Dir lesson11.mp4 - Generate DOM Nodes Extra Extra Credit
+
+Old Dir lesson12.mp4
+New Dir lesson12.mp4 - Intro to Raw React APIs
+
+Old Dir lesson13.mp4
+New Dir lesson13.mp4 - Raw React APIs Solution
+
+Old Dir lesson14.mp4
+New Dir lesson14.mp4 - Nesting Elements Extra Credit Solution
+
+Old Dir lesson15.mp4
+New Dir lesson15.mp4 - Break Time
+
+Old Dir lesson16.mp4
+New Dir lesson16.mp4 - Using JSX
+
+Old Dir lesson17.mp4
+New Dir lesson17.mp4 - Write Markup with JSX Solution
+
+Old Dir lesson18.mp4
+New Dir lesson18.mp4 - Interpolate className and Children Extra Credit Solution 01
+
+Old Dir lesson19.mp4
+New Dir lesson19.mp4 - Spread Props Extra Credit Solution 02
+
+Old Dir lesson20.mp4
+New Dir lesson20.mp4 - Creating Custom Components
+
+Old Dir lesson21.mp4
+New Dir lesson21.mp4 - Render JSX From Functions Solution
+
+Old Dir lesson22.mp4
+New Dir lesson22.mp4 - ReactcreateElement Extra Credit Solution 01
+
+Old Dir lesson23.mp4
+New Dir lesson23.mp4 - JSX Extra Credit Solution 02
+
+Old Dir lesson24.mp4
+New Dir lesson24.mp4 - Validation with PropTypes Extra Credit Solution 03
+
+Old Dir lesson25.mp4
+New Dir lesson25.mp4 - Use proptypes Package Extra Credit Solution 04
+
+Old Dir lesson26.mp4
+New Dir lesson26.mp4 - React Fragments Extra Credit Solution 05
+
+Old Dir lesson27.mp4
+New Dir lesson27.mp4 - Styling
+
+Old Dir lesson28.mp4
+New Dir lesson28.mp4 - style Prop Solution
+
+Old Dir lesson29.mp4
+New Dir lesson29.mp4 - Create a Custom Component Extra Credit Solution 01
+
+Old Dir lesson30.mp4
+New Dir lesson30.mp4 - Accept a Size Prop to Encapsulate Styling Extra Credit Solution 02
+
+Old Dir lesson31.mp4
+New Dir lesson31.mp4 - Break Time
+
+Old Dir lesson32.mp4
+New Dir lesson32.mp4 - Forms
+
+Old Dir lesson33.mp4
+New Dir lesson33.mp4 - Form Basics
+
+Old Dir lesson34.mp4
+New Dir lesson34.mp4 - Using refs Extra Credit Solution 01
+
+Old Dir lesson35.mp4
+New Dir lesson35.mp4 - Validate lowercase Extra Credit Solution 02
+
+Old Dir lesson36.mp4
+New Dir lesson36.mp4 - Control the Input Value Extra Credit Solution 03
+
+Old Dir lesson37.mp4
+New Dir lesson37.mp4 - Rendering Arrays
+
+Old Dir lesson38.mp4
+New Dir lesson38.mp4 - Render Arrays Solution
+
+Old Dir lesson39.mp4
+New Dir lesson39.mp4 - Focus demo Extra Credit Solution 01
+
+Old Dir lesson40.mp4
+New Dir lesson40.mp4 - React Fundamentals Outro
+
+Old Dir lesson41.mp4
+New Dir lesson41.mp4 - React Hooks Welcome
+
+Old Dir lesson42.mp4
+New Dir lesson42.mp4 - useState greeting
+
+Old Dir lesson43.mp4
+New Dir lesson43.mp4 - Set State in React Solution
+
+Old Dir lesson44.mp4
+New Dir lesson44.mp4 - Set Initial Values Through Props Extra Credit Solution
+
+Old Dir lesson45.mp4
+New Dir lesson45.mp4 - useEffect persistent state
+
+Old Dir lesson46.mp4
+New Dir lesson46.mp4 - localStorage useEffect Solution
+
+Old Dir lesson47.mp4
+New Dir lesson47.mp4 - Lazy State Initialization Extra Credit Solution 1
+
+Old Dir lesson48.mp4
+New Dir lesson48.mp4 - Effect Dependencies Extra Credit Solution 2
+
+Old Dir lesson49.mp4
+New Dir lesson49.mp4 - Custom Hook Extra Credit Solution 3
+
+Old Dir lesson50.mp4
+New Dir lesson50.mp4 - Flexible localStorage Hook Extra Credit Solution 4
+
+Old Dir lesson51.mp4
+New Dir lesson51.mp4 - Hooks Flow
+
+Old Dir lesson52.mp4
+New Dir lesson52.mp4 - Lifting state
+
+Old Dir lesson53.mp4
+New Dir lesson53.mp4 - Lift State Solution
+
+Old Dir lesson54.mp4
+New Dir lesson54.mp4 - Colocate State Extra Credit Solution
+
+Old Dir lesson55.mp4
+New Dir lesson55.mp4 - useState tic tac toe
+
+Old Dir lesson56.mp4
+New Dir lesson56.mp4 - Managed and Derived State Solution
+
+Old Dir lesson57.mp4
+New Dir lesson57.mp4 - Preserve State in localStorage Extra Credit Solution 1
+
+Old Dir lesson58.mp4
+New Dir lesson58.mp4 - useLocalStorageState Custom Hook Extra Credit Solution 2
+
+Old Dir lesson59.mp4
+New Dir lesson59.mp4 - Add Game History Feature Extra Credit Solution 3
+
+Old Dir lesson60.mp4
+New Dir lesson60.mp4 - Class Refactor
+
+Old Dir lesson61.mp4
+New Dir lesson61.mp4 - useRef and useEffect DOM interaction
+
+Old Dir lesson62.mp4
+New Dir lesson62.mp4 - Solution
+
+Old Dir lesson63.mp4
+New Dir lesson63.mp4 - Class Refactor
+
+Old Dir lesson64.mp4
+New Dir lesson64.mp4 - Break Time
+
+Old Dir lesson65.mp4
+New Dir lesson65.mp4 - useEffect HTTP requests
+
+Old Dir lesson66.mp4
+New Dir lesson66.mp4 - Fetch Data
+
+Old Dir lesson67.mp4
+New Dir lesson67.mp4 - Handle Errors Extra Credit Solution 1
+
+Old Dir lesson68.mp4
+New Dir lesson68.mp4 - Use a status Extra Credit Solution 2
+
+Old Dir lesson69.mp4
+New Dir lesson69.mp4 - Store the State in an Object Extra Credit Solution 3
+
+Old Dir lesson70.mp4
+New Dir lesson70.mp4 - ErrorBoundary Component Extra Credit Solution 4
+
+Old Dir lesson71.mp4
+New Dir lesson71.mp4 - Remount the ErrorBoundary Extra Credit Solution 5
+
+Old Dir lesson72.mp4
+New Dir lesson72.mp4 - Use reacterrorboundary Extra Credit Solution 6
+
+Old Dir lesson73.mp4
+New Dir lesson73.mp4 - Reset the ErrorBoundary Extra Credit Solution 7
+
+Old Dir lesson74.mp4
+New Dir lesson74.mp4 - use resetKeys Extra Credit Solution 8
+
+Old Dir lesson75.mp4
+New Dir lesson75.mp4 - React Hooks Outro
+
+Old Dir lesson76.mp4
+New Dir lesson76.mp4 - Advanced React Hooks Welcome
+
+Old Dir lesson77.mp4
+New Dir lesson77.mp4 - useReducer simple Counter
+
+Old Dir lesson78.mp4
+New Dir lesson78.mp4 - Simple Counter Solution
+
+Old Dir lesson79.mp4
+New Dir lesson79.mp4 - Accept Step as Action Extra Credit Solution 1
+
+Old Dir lesson80.mp4
+New Dir lesson80.mp4 - setState with Object Extra Credit Solution 2
+
+Old Dir lesson81.mp4
+New Dir lesson81.mp4 - Object or Function Extra Credit Solution 3
+
+Old Dir lesson82.mp4
+New Dir lesson82.mp4 - Traditional Dispatch Object Extra Credit Solution 4
+
+Old Dir lesson83.mp4
+New Dir lesson83.mp4 - useCallback custom hooks
+
+Old Dir lesson84.mp4
+New Dir lesson84.mp4 - Extract Logic into Hook Solution
+
+Old Dir lesson85.mp4
+New Dir lesson85.mp4 - useCallback for Memoization Extra Credit Solution 1
+
+Old Dir lesson86.mp4
+New Dir lesson86.mp4 - Return Memoized run Function Extra Credit Solution 2
+
+Old Dir lesson87.mp4
+New Dir lesson87.mp4 - Make safeDispatch Extra Credit Solution 3
+
+Old Dir lesson88.mp4
+New Dir lesson88.mp4 - useContext simple Counter
+
+Old Dir lesson89.mp4
+New Dir lesson89.mp4 - CountProvider Solution
+
+Old Dir lesson90.mp4
+New Dir lesson90.mp4 - Create a Consumer Hook Extra Credit Solution 1
+
+Old Dir lesson91.mp4
+New Dir lesson91.mp4 - Caching in Context Provider Extra Credit Solution 2
+
+Old Dir lesson92.mp4
+New Dir lesson92.mp4 - useLayoutEffect autogrowing textarea
+
+Old Dir lesson93.mp4
+New Dir lesson93.mp4 - useLayoutEffect Solution
+
+Old Dir lesson94.mp4
+New Dir lesson94.mp4 - useImperativeHandle scroll to topbottom
+
+Old Dir lesson95.mp4
+New Dir lesson95.mp4 - Scroll to TopBottom Solution
+
+Old Dir lesson96.mp4
+New Dir lesson96.mp4 - useDebugValue useMedia
+
+Old Dir lesson97.mp4
+New Dir lesson97.mp4 - Label useDebugValue Solution
+
+Old Dir lesson98.mp4
+New Dir lesson98.mp4 - Use the Format Function Extra Credit Solution 1
+
+Old Dir lesson99.mp4
+New Dir lesson99.mp4 - Advanced React Hooks Outro
+
+Old Dir lesson100.mp4
+New Dir lesson100.mp4 - Advanced React Patterns Welcome
+
+Old Dir lesson101.mp4
+New Dir lesson101.mp4 - Context Module Functions
+
+Old Dir lesson102.mp4
+New Dir lesson102.mp4 - Extract Helper Function Solution
+
+Old Dir lesson103.mp4
+New Dir lesson103.mp4 - Compound Components
+
+Old Dir lesson104.mp4
+New Dir lesson104.mp4 - Refactor Toggle Solution
+
+Old Dir lesson105.mp4
+New Dir lesson105.mp4 - Support DOM Component Children Extra Credit Solution 1
+
+Old Dir lesson106.mp4
+New Dir lesson106.mp4 - Flexible Compound Components
+
+Old Dir lesson107.mp4
+New Dir lesson107.mp4 - Extract State into Context Solution
+
+Old Dir lesson108.mp4
+New Dir lesson108.mp4 - Custom Hook Validation Extra Credit Solution 1
+
+Old Dir lesson109.mp4
+New Dir lesson109.mp4 - Prop Collections and Getters
+
+Old Dir lesson110.mp4
+New Dir lesson110.mp4 - Object of Props Solution
+
+Old Dir lesson111.mp4
+New Dir lesson111.mp4 - Prop Getters Extra Credit Solution 1
+
+Old Dir lesson112.mp4
+New Dir lesson112.mp4 - State Reducer
+
+Old Dir lesson113.mp4
+New Dir lesson113.mp4 - Inversion of Control Solution
+
+Old Dir lesson114.mp4
+New Dir lesson114.mp4 - Default State Reducer Extra Credit Solution 1
+
+Old Dir lesson115.mp4
+New Dir lesson115.mp4 - State Reducer Action Types Extra Credit Solution 2
+
+Old Dir lesson116.mp4
+New Dir lesson116.mp4 - Control Props
+
+Old Dir lesson117.mp4
+New Dir lesson117.mp4 - Control State with on and onChange Solution
+
+Old Dir lesson118.mp4
+New Dir lesson118.mp4 - Add Read Only Warning Extra Credit Solution 1
+
+Old Dir lesson119.mp4
+New Dir lesson119.mp4 - Add a Controlled State Warning Extra Credit Solution 2
+
+Old Dir lesson120.mp4
+New Dir lesson120.mp4 - Extract Warnings to a Custom Hook Extra Credit Solution 3
+
+Old Dir lesson121.mp4
+New Dir lesson121.mp4 - Dont Warn in Production Extra Credit Solution 4
+
+Old Dir lesson122.mp4
+New Dir lesson122.mp4 - Advanced React Patterns Outro
+
+Old Dir lesson123.mp4
+New Dir lesson123.mp4 - React Performance Welcome
+
+Old Dir lesson124.mp4
+New Dir lesson124.mp4 - Code Splitting
+
+Old Dir lesson125.mp4
+New Dir lesson125.mp4 - Code Split Solution
+
+Old Dir lesson126.mp4
+New Dir lesson126.mp4 - Eager Loading Extra Credit Solution 1
+
+Old Dir lesson127.mp4
+New Dir lesson127.mp4 - Webpack Magic Comments Extra Credit Solution 2
+
+Old Dir lesson128.mp4
+New Dir lesson128.mp4 - Suspense Position
+
+Old Dir lesson129.mp4
+New Dir lesson129.mp4 - Coverage Tool
+
+Old Dir lesson130.mp4
+New Dir lesson130.mp4 - useMemo for Expensive Calculations
+
+Old Dir lesson131.mp4
+New Dir lesson131.mp4 - Wrap a Function in useMemo Solution
+
+Old Dir lesson132.mp4
+New Dir lesson132.mp4 - Production Mode Extra Credit Solution 1
+
+Old Dir lesson133.mp4
+New Dir lesson133.mp4 - getItems Web Worker Extra Credit Solution 2
+
+Old Dir lesson134.mp4
+New Dir lesson134.mp4 - Reactmemo for Reducing rerenders
+
+Old Dir lesson135.mp4
+New Dir lesson135.mp4 - Memoize Components Solution
+
+Old Dir lesson136.mp4
+New Dir lesson136.mp4 - Custom Comparator Extra Credit Solution 1
+
+Old Dir lesson137.mp4
+New Dir lesson137.mp4 - Primitive Values Extra Credit Solution 2
+
+Old Dir lesson138.mp4
+New Dir lesson138.mp4 - Window Large Lists with reactvirtual
+
+Old Dir lesson139.mp4
+New Dir lesson139.mp4 - Render Large Lists Solution
+
+Old Dir lesson140.mp4
+New Dir lesson140.mp4 - Optimize Context Value
+
+Old Dir lesson141.mp4
+New Dir lesson141.mp4 - Memoize Context Value Solution
+
+Old Dir lesson142.mp4
+New Dir lesson142.mp4 - Separate the Contexts Extra Credit Solution 1
+
+Old Dir lesson143.mp4
+New Dir lesson143.mp4 - Fix Perf Death by a Thousand Cuts
+
+Old Dir lesson144.mp4
+New Dir lesson144.mp4 - Colocate State Solution
+
+Old Dir lesson145.mp4
+New Dir lesson145.mp4 - Separate Contexts Extra Credit Solution 1
+
+Old Dir lesson146.mp4
+New Dir lesson146.mp4 - Consuming Components Extra Credit Solution 2
+
+Old Dir lesson147.mp4
+New Dir lesson147.mp4 - Slice of App State Extra Credit Solution 3
+
+Old Dir lesson148.mp4
+New Dir lesson148.mp4 - Use recoil Extra Credit Solution 4
+
+Old Dir lesson149.mp4
+New Dir lesson149.mp4 - Production Performance Monitoring
+
+Old Dir lesson150.mp4
+New Dir lesson150.mp4 - Add Performance Monitoring Solution
+
+Old Dir lesson151.mp4
+New Dir lesson151.mp4 - Use Trace API Extra Credit Solution 1
+
+Old Dir lesson152.mp4
+New Dir lesson152.mp4 - React Performance Outro
+
+Old Dir lesson153.mp4
+New Dir lesson153.mp4 - Testing React Apps Welcome
+
+Old Dir lesson154.mp4
+New Dir lesson154.mp4 - Simple Test with ReactDOM
+
+Old Dir lesson155.mp4
+New Dir lesson155.mp4 - Render Counter Component Solution 1
+
+Old Dir lesson156.mp4
+New Dir lesson156.mp4 - Test Counter Component Solution 2
+
+Old Dir lesson157.mp4
+New Dir lesson157.mp4 - Increment and Decrement Buttons Solution 3
+
+Old Dir lesson158.mp4
+New Dir lesson158.mp4 - Cleaning up Test Environments Solution 4
+
+Old Dir lesson159.mp4
+New Dir lesson159.mp4 - Add use dispatchEvent Extra Credit Solution 1
+
+Old Dir lesson160.mp4
+New Dir lesson160.mp4 - Simple Test with React Testing Library
+
+Old Dir lesson161.mp4
+New Dir lesson161.mp4 - Rendering Solution 1
+
+Old Dir lesson162.mp4
+New Dir lesson162.mp4 - Firing Events Solution 2
+
+Old Dir lesson163.mp4
+New Dir lesson163.mp4 - Accretions Extra Credit Solution 1
+
+Old Dir lesson164.mp4
+New Dir lesson164.mp4 - Avoid Implementation Details
+
+Old Dir lesson165.mp4
+New Dir lesson165.mp4 - Screen Utility Solution
+
+Old Dir lesson166.mp4
+New Dir lesson166.mp4 - Browser Interactions  Extra Credit Solution 1
+
+Old Dir lesson167.mp4
+New Dir lesson167.mp4 - Form Testing
+
+Old Dir lesson168.mp4
+New Dir lesson168.mp4 - Exposes a Debug Method to Test Elements Solution 1
+
+Old Dir lesson169.mp4
+New Dir lesson169.mp4 - Jest Mock Solution 2
+
+Old Dir lesson170.mp4
+New Dir lesson170.mp4 - Abstract Variables Extra Credit Solution 1
+
+Old Dir lesson171.mp4
+New Dir lesson171.mp4 - Jest Mock Functions Extra Credit Solution 2
+
+Old Dir lesson172.mp4
+New Dir lesson172.mp4 - Generate Test Data Extra Credit Solution 3
+
+Old Dir lesson173.mp4
+New Dir lesson173.mp4 - Allow for Overrides Extra Credit Solution 4
+
+Old Dir lesson174.mp4
+New Dir lesson174.mp4 - Mocking HTTP Requests
+
+Old Dir lesson175.mp4
+New Dir lesson175.mp4 - Mock Service Worker Solution 1
+
+Old Dir lesson176.mp4
+New Dir lesson176.mp4 - Mocked Responses Solution 2
+
+Old Dir lesson177.mp4
+New Dir lesson177.mp4 - Reuse Server Request Handlers Extra Credit Solution 1
+
+Old Dir lesson178.mp4
+New Dir lesson178.mp4 - Unhappy Path Extra Credit Solution 2
+
+Old Dir lesson179.mp4
+New Dir lesson179.mp4 - Use Inline Snapshots Extra Credit Solution 3
+
+Old Dir lesson180.mp4
+New Dir lesson180.mp4 - Use Oneoff Server Handlers Extra Credit Solution 4
+
+Old Dir lesson181.mp4
+New Dir lesson181.mp4 - Mocking Browser APIs and Modules
+
+Old Dir lesson182.mp4
+New Dir lesson182.mp4 - Mock Geolocation Solution 1
+
+Old Dir lesson183.mp4
+New Dir lesson183.mp4 - Act Function Solution 2
+
+Old Dir lesson184.mp4
+New Dir lesson184.mp4 - Mock the module Extra Credit Solution 1
+
+Old Dir lesson185.mp4
+New Dir lesson185.mp4 - Context and Custom Render Method
+
+Old Dir lesson186.mp4
+New Dir lesson186.mp4 - Wrapper Component Solution
+
+Old Dir lesson187.mp4
+New Dir lesson187.mp4 - Dark Theme Extra Credit Solution 1
+
+Old Dir lesson188.mp4
+New Dir lesson188.mp4 - Render Method Extra Credit Solution 2
+
+Old Dir lesson189.mp4
+New Dir lesson189.mp4 - App Test Utils Extra Credit Solution 3
+
+Old Dir lesson190.mp4
+New Dir lesson190.mp4 - Testing Custom Hooks
+
+Old Dir lesson191.mp4
+New Dir lesson191.mp4 - Test Functionality of Custom Hook Solution
+
+Old Dir lesson192.mp4
+New Dir lesson192.mp4 - Fake Component Extra Credit Solution 1
+
+Old Dir lesson193.mp4
+New Dir lesson193.mp4 - Setup Function Extra Credit Solution 2
+
+Old Dir lesson194.mp4
+New Dir lesson194.mp4 - Using ReactHooks Testing Library Extra Credit Solution 3
+
+Old Dir lesson195.mp4
+New Dir lesson195.mp4 - Testing React Apps Outro
+
+Old Dir lesson196.mp4
+New Dir lesson196.mp4 - React Suspense Welcome
+
+Old Dir lesson197.mp4
+New Dir lesson197.mp4 - Concurrent Mode
+
+Old Dir lesson198.mp4
+New Dir lesson198.mp4 - Simple DataFetching
+
+Old Dir lesson199.mp4
+New Dir lesson199.mp4 - ReactSuspense Solution
+
+Old Dir lesson200.mp4
+New Dir lesson200.mp4 - Handle Error with Error Boundary Extra Credit Solution 1
+
+Old Dir lesson201.mp4
+New Dir lesson201.mp4 - Make More Generic createResource Extra Credit Solution 2
+
+Old Dir lesson202.mp4
+New Dir lesson202.mp4 - Use utils Extra Credit Solution 3
+
+Old Dir lesson203.mp4
+New Dir lesson203.mp4 - Render as You Fetch
+
+Old Dir lesson204.mp4
+New Dir lesson204.mp4 - Refactor PokemonInfo Solution
+
+Old Dir lesson205.mp4
+New Dir lesson205.mp4 - Error Boundary Positioning Extra Credit Solution 1
+
+Old Dir lesson206.mp4
+New Dir lesson206.mp4 - useTransition
+
+Old Dir lesson207.mp4
+New Dir lesson207.mp4 - startTranistion and isPending Solution
+
+Old Dir lesson208.mp4
+New Dir lesson208.mp4 - Use CSS Transitions Extra Credit Solution 1
+
+Old Dir lesson209.mp4
+New Dir lesson209.mp4 - Avoid Flash of Loading Content Extra Credit Solution 2
+
+Old Dir lesson210.mp4
+New Dir lesson210.mp4 - Cache Resources
+
+Old Dir lesson211.mp4
+New Dir lesson211.mp4 - Cache an Object Solution
+
+Old Dir lesson212.mp4
+New Dir lesson212.mp4 - Put Cache in Context Extra Credit Solution 1
+
+Old Dir lesson213.mp4
+New Dir lesson213.mp4 - Create a Context Provider Extra Credit Solution 2
+
+Old Dir lesson214.mp4
+New Dir lesson214.mp4 - Add Cache Timeout Extra Credit Solution 3
+
+Old Dir lesson215.mp4
+New Dir lesson215.mp4 - Suspense Image
+
+Old Dir lesson216.mp4
+New Dir lesson216.mp4 - Suspend an Image Component Solution
+
+Old Dir lesson217.mp4
+New Dir lesson217.mp4 - Avoid Waterfall Extra Credit Solution 1
+
+Old Dir lesson218.mp4
+New Dir lesson218.mp4 - Render as You Fetch Extra Credit Solution 2
+
+Old Dir lesson219.mp4
+New Dir lesson219.mp4 - Suspense with a Custom Hook
+
+Old Dir lesson220.mp4
+New Dir lesson220.mp4 - Create a Custom Suspense Hook Solution
+
+Old Dir lesson221.mp4
+New Dir lesson221.mp4 - Reuse PreBuilt Hook Extra Credit Solution 1
+
+Old Dir lesson222.mp4
+New Dir lesson222.mp4 - Coordinate Suspending Components with SuspenseList
+
+Old Dir lesson223.mp4
+New Dir lesson223.mp4 - Load States Solution
+
+Old Dir lesson224.mp4
+New Dir lesson224.mp4 - React Suspense Outro
+
+Old Dir lesson225.mp4
+New Dir lesson225.mp4 - Build an Epic React App Welcome
+
+Old Dir lesson226.mp4
+New Dir lesson226.mp4 -  Walkthrough of Project Setup
+
+Old Dir lesson227.mp4
+New Dir lesson227.mp4 -  Render a React App
+
+Old Dir lesson228.mp4
+New Dir lesson228.mp4 -  Render Logo and Title Solution
+
+Old Dir lesson229.mp4
+New Dir lesson229.mp4 -  Use reachdialog Extra Credit Solution 01
+
+Old Dir lesson230.mp4
+New Dir lesson230.mp4 -  Create a LoginForm Component Extra Credit Solution 02
+
+Old Dir lesson231.mp4
+New Dir lesson231.mp4 -  Add Styles
+
+Old Dir lesson232.mp4
+New Dir lesson232.mp4 -  Style a Button with Variants Solution 01
+
+Old Dir lesson233.mp4
+New Dir lesson233.mp4 -  Style Input and Formgroup Solution 02
+
+Old Dir lesson234.mp4
+New Dir lesson234.mp4 -  Style with Emotion CSS Prop Solution 03
+
+Old Dir lesson235.mp4
+New Dir lesson235.mp4 -  Use the Emotion Macro Extra Credit Solution 01
+
+Old Dir lesson236.mp4
+New Dir lesson236.mp4 -  Use Colors and Media Queries File Extra Credit Solution 02
+
+Old Dir lesson237.mp4
+New Dir lesson237.mp4 -  Make a Loading Spinner Component Extra Credit Solution 03
+
+Old Dir lesson238.mp4
+New Dir lesson238.mp4 -  Make HTTP Requests
+
+Old Dir lesson239.mp4
+New Dir lesson239.mp4 -  Query Data with useEffect Solution 01
+
+Old Dir lesson240.mp4
+New Dir lesson240.mp4 -  Query Data with useEffect Solution 02
+
+Old Dir lesson241.mp4
+New Dir lesson241.mp4 -  Handle Failed Requests Extra Credit Solution 01
+
+Old Dir lesson242.mp4
+New Dir lesson242.mp4 -  Use the useAsync Hook Extra Credit Solution 02
+
+Old Dir lesson243.mp4
+New Dir lesson243.mp4 -  Authentication
+
+Old Dir lesson244.mp4
+New Dir lesson244.mp4 -  Wire up Authentication Solution
+
+Old Dir lesson245.mp4
+New Dir lesson245.mp4 -  User Data on Page Load Extra Credit Solution 01
+
+Old Dir lesson246.mp4
+New Dir lesson246.mp4 -  Use useAsync Extra Credit Solution 02
+
+Old Dir lesson247.mp4
+New Dir lesson247.mp4 -  Automatically Logout on 401 Extra Credit Solution 03
+
+Old Dir lesson248.mp4
+New Dir lesson248.mp4 -  Support Posting Data Extra Credit Solution 04
+
+Old Dir lesson249.mp4
+New Dir lesson249.mp4 -  Routing
+
+Old Dir lesson250.mp4
+New Dir lesson250.mp4 -  Handle Routing Solution
+
+Old Dir lesson251.mp4
+New Dir lesson251.mp4 -  Handle URL Redirects Extra Credit Solution01
+
+Old Dir lesson252.mp4
+New Dir lesson252.mp4 -  Add useMatch to Highlight the Active Nav Item Extra Credit Solution02
+
+Old Dir lesson253.mp4
+New Dir lesson253.mp4 -  Cache Management
+
+Old Dir lesson254.mp4
+New Dir lesson254.mp4 -  Create listItems with React Query useMutation Solution 01
+
+Old Dir lesson255.mp4
+New Dir lesson255.mp4 -  View listItems with React Query useQuery Solution 02
+
+Old Dir lesson256.mp4
+New Dir lesson256.mp4 -  Remove listItems with useMutation Solution 03
+
+Old Dir lesson257.mp4
+New Dir lesson257.mp4 -  Update listItems with useMutations Solution 04
+
+Old Dir lesson258.mp4
+New Dir lesson258.mp4 -  View listItem Data in BookRow with useQuery Solution 05
+
+Old Dir lesson259.mp4
+New Dir lesson259.mp4 -  Update a Book Rating with useMutation Solution 06
+
+Old Dir lesson260.mp4
+New Dir lesson260.mp4 -  Refactor useAsync to useQuery Solution 07
+
+Old Dir lesson261.mp4
+New Dir lesson261.mp4 -  Load and Persist Book Data with useQuery Solution 08
+
+Old Dir lesson262.mp4
+New Dir lesson262.mp4 -  Query with useQuery for listItems in ListItemList Solution 09
+
+Old Dir lesson263.mp4
+New Dir lesson263.mp4 -  Clear queryCache on User Logout Solution 10
+
+Old Dir lesson264.mp4
+New Dir lesson264.mp4 -  Create useBookSearch Custom Hook Extra Credit Solution 0101
+
+Old Dir lesson265.mp4
+New Dir lesson265.mp4 -  Create a useBook Custom Hook Extra Credit Solution 0102
+
+Old Dir lesson266.mp4
+New Dir lesson266.mp4 -  Create useListItems Custom Hook Extra Credit Solution 0103
+
+Old Dir lesson267.mp4
+New Dir lesson267.mp4 -  Reuse Mutation Logic in a Custom Extra Credit Solution 0104
+
+Old Dir lesson268.mp4
+New Dir lesson268.mp4 -  Reuse Custom Hooks to Reduce Code Extra Credit Solution 0105
+
+Old Dir lesson269.mp4
+New Dir lesson269.mp4 -  Create and Remove Custom Hook Extra Credit Solution 0106
+
+Old Dir lesson270.mp4
+New Dir lesson270.mp4 -  useMatch highlight active nav item Extra Credit Solution 02
+
+Old Dir lesson271.mp4
+New Dir lesson271.mp4 -  Show Error When Request Fails Extra Credit Solution 0301
+
+Old Dir lesson272.mp4
+New Dir lesson272.mp4 -  React Query Custom Error Handling Extra Credit Solution 0302
+
+Old Dir lesson273.mp4
+New Dir lesson273.mp4 -  Add a Loading Spinner for the Notes Extra Credit Solution 04
+
+Old Dir lesson274.mp4
+New Dir lesson274.mp4 -  Prefetch the Book Search Query Extra Credit Solution 05
+
+Old Dir lesson275.mp4
+New Dir lesson275.mp4 -  Add Books to the Query Cache Extra Credit Solution 06
+
+Old Dir lesson276.mp4
+New Dir lesson276.mp4 -  Add Optimistic Updates and Recovery Extra Credit Solution 07
+
+Old Dir lesson277.mp4
+New Dir lesson277.mp4 -  Context
+
+Old Dir lesson278.mp4
+New Dir lesson278.mp4 -  Create and Provide an AuthContext Solution 01
+
+Old Dir lesson279.mp4
+New Dir lesson279.mp4 -  Grab a Value from Context in a Hook Solution 02
+
+Old Dir lesson280.mp4
+New Dir lesson280.mp4 -  Use Context Value in ListItem Hooks and AuthenticatedApp Solution 03
+
+Old Dir lesson281.mp4
+New Dir lesson281.mp4 -  Expose User Context Value to refetchBookSearchQuery Solution 04
+
+Old Dir lesson282.mp4
+New Dir lesson282.mp4 -  Create a useAuth Hook Extra Credit Solution 01
+
+Old Dir lesson283.mp4
+New Dir lesson283.mp4 -  Create an AuthProvider Component Extra Credit Solution 02
+
+Old Dir lesson284.mp4
+New Dir lesson284.mp4 -  Colocate Global Providers Extra Credit Solution 03
+
+Old Dir lesson285.mp4
+New Dir lesson285.mp4 -  Create a useClient Hook Extra Credit Solution 04
+
+Old Dir lesson286.mp4
+New Dir lesson286.mp4 -  Compound Components
+
+Old Dir lesson287.mp4
+New Dir lesson287.mp4 -  Create Compound Components for a Flexible Modal Solution
+
+Old Dir lesson288.mp4
+New Dir lesson288.mp4 -  Add callAll Extra Credit Solution 01
+
+Old Dir lesson289.mp4
+New Dir lesson289.mp4 -  Create ModalContentsBase Extra Credit Solution 02
+
+Old Dir lesson290.mp4
+New Dir lesson290.mp4 -  Performance
+
+Old Dir lesson291.mp4
+New Dir lesson291.mp4 -  Improve the Time to First Meaningful Paint Solution
+
+Old Dir lesson292.mp4
+New Dir lesson292.mp4 -  Prefetch the Authenticated App Extra Credit Solution 01
+
+Old Dir lesson293.mp4
+New Dir lesson293.mp4 -  Memoize Context Extra Credit Solution 02
+
+Old Dir lesson294.mp4
+New Dir lesson294.mp4 -  Custom ReactProfiler to Moninitor App Extra Credit Solution 0301
+
+Old Dir lesson295.mp4
+New Dir lesson295.mp4 -  Add Metadata and Profile Book Screen Extra Credit Solution 0302
+
+Old Dir lesson296.mp4
+New Dir lesson296.mp4 -  List Item List and Discover Sceen List Extra Credit Solution 0303
+
+Old Dir lesson297.mp4
+New Dir lesson297.mp4 -  Add Profiling to Production Builds Extra Credit Solution 0304
+
+Old Dir lesson298.mp4
+New Dir lesson298.mp4 -  Add Interaction Tracing Extra Credit Solution 0401
+
+Old Dir lesson299.mp4
+New Dir lesson299.mp4 -  Profile All Updates in an Interaction Extra Credit Solution 0402
+
+Old Dir lesson300.mp4
+New Dir lesson300.mp4 -  Render as You Fetch
+
+Old Dir lesson301.mp4
+New Dir lesson301.mp4 -  Fetch User before AuthProvider Mounts Solution
+
+Old Dir lesson302.mp4
+New Dir lesson302.mp4 -  Preload All Initial Data Extra Credit Solution 01
+
+Old Dir lesson303.mp4
+New Dir lesson303.mp4 -  Unit Testing
+
+Old Dir lesson304.mp4
+New Dir lesson304.mp4 -  Test formatDate Solution 01
+
+Old Dir lesson305.mp4
+New Dir lesson305.mp4 -  Set up a Server to Test Requests Solution 02
+
+Old Dir lesson306.mp4
+New Dir lesson306.mp4 -  Test if a Request has an Auth Header Solution 03
+
+Old Dir lesson307.mp4
+New Dir lesson307.mp4 -  Client Request Config Overrides Solution 04
+
+Old Dir lesson308.mp4
+New Dir lesson308.mp4 -  POST by Default when Body Present and Stringified Solution 05
+
+Old Dir lesson309.mp4
+New Dir lesson309.mp4 -  Automatic Log Out on 401 Error Extra Credit Solution 0101
+
+Old Dir lesson310.mp4
+New Dir lesson310.mp4 -  Ensure Promise Rejects on Error Extra Credit Solution 0102
+
+Old Dir lesson311.mp4
+New Dir lesson311.mp4 -  Use setupTestsjs Extra Credit Solution 02
+
+Old Dir lesson312.mp4
+New Dir lesson312.mp4 -  Testing Hooks and Components
+
+Old Dir lesson313.mp4
+New Dir lesson313.mp4 -  Modal Compound Components Solution 01
+
+Old Dir lesson314.mp4
+New Dir lesson314.mp4 -  Set up useAsync Test with renderHook Solution 02
+
+Old Dir lesson315.mp4
+New Dir lesson315.mp4 -  Wrap an act around an async Function Solution 03
+
+Old Dir lesson316.mp4
+New Dir lesson316.mp4 -  Add an async act to Resolve a Promise Solution 04
+
+Old Dir lesson317.mp4
+New Dir lesson317.mp4 -  Reset React State in a Test Solution 05
+
+Old Dir lesson318.mp4
+New Dir lesson318.mp4 -  Call Run with a Promise That Resolved Solution 06
+
+Old Dir lesson319.mp4
+New Dir lesson319.mp4 -  Can Specify an Initial State Solution 07
+
+Old Dir lesson320.mp4
+New Dir lesson320.mp4 -  Can Set the Data Solution 08
+
+Old Dir lesson321.mp4
+New Dir lesson321.mp4 -  No State Updates if Unmounted Solution 09
+
+Old Dir lesson322.mp4
+New Dir lesson322.mp4 -  Call run without Promise Errors Solution 10
+
+Old Dir lesson323.mp4
+New Dir lesson323.mp4 -  AHA Testing Extra Credit Solution 01
+
+Old Dir lesson324.mp4
+New Dir lesson324.mp4 -  Integration Testing
+
+Old Dir lesson325.mp4
+New Dir lesson325.mp4 -  Render the Application with AppProviders Solution 01
+
+Old Dir lesson326.mp4
+New Dir lesson326.mp4 -  Wait for Loading Element to Be Removed Solution 02
+
+Old Dir lesson327.mp4
+New Dir lesson327.mp4 -  Reverseengineer AuthProvider and Log In Solution 03
+
+Old Dir lesson328.mp4
+New Dir lesson328.mp4 -  Render a Book Page in a Test Solution 04
+
+Old Dir lesson329.mp4
+New Dir lesson329.mp4 -  Test What UI Elements are Present Solution 05
+
+Old Dir lesson330.mp4
+New Dir lesson330.mp4 -  Isolate Tests by Cleaning up State and Cache Solution 06
+
+Old Dir lesson331.mp4
+New Dir lesson331.mp4 -  Create Mock msw Server Extra Credit Solution 01
+
+Old Dir lesson332.mp4
+New Dir lesson332.mp4 -  Write Second Integration Test Extra Credit Solution 02
+
+Old Dir lesson333.mp4
+New Dir lesson333.mp4 -  Abstract Functionality Extra Credit Solution 0301
+
+Old Dir lesson334.mp4
+New Dir lesson334.mp4 -  Custom Render Function Extra Credit Solution 0302
+
+Old Dir lesson335.mp4
+New Dir lesson335.mp4 -  Global Utils Extra Credit Solution 04
+
+Old Dir lesson336.mp4
+New Dir lesson336.mp4 -  Can Remove List Item for Book Extra Credit Solution 0501
+
+Old Dir lesson337.mp4
+New Dir lesson337.mp4 -  Can Mark a List Item as Read Extra Credit Solution 0502
+
+Old Dir lesson338.mp4
+New Dir lesson338.mp4 -  Can Edit a Note Extra Credit Solution 0503
+
+Old Dir lesson339.mp4
+New Dir lesson339.mp4 -  Use Jest Fake Timers Extra Credit Solution 0504
+
+Old Dir lesson340.mp4
+New Dir lesson340.mp4 -  Set up Mock Profiler for Tests Extra Credit Solution 0505
+
+Old Dir lesson341.mp4
+New Dir lesson341.mp4 -  Create ComponentSpecific Utility Extra Credit Solution 06
+
+Old Dir lesson342.mp4
+New Dir lesson342.mp4 -  Show Error when Load Fails Extra Credit Solution 0701
+
+Old Dir lesson343.mp4
+New Dir lesson343.mp4 -  Scope Hooks to Describe Block Extra Credit Solution 0702
+
+Old Dir lesson344.mp4
+New Dir lesson344.mp4 -  Update Failures are Displayed Extra Credit Solution 0703
+
+Old Dir lesson345.mp4
+New Dir lesson345.mp4 -  E2E Testing
+
+Old Dir lesson346.mp4
+New Dir lesson346.mp4 -  Register a User in Cypress Solution 01
+
+Old Dir lesson347.mp4
+New Dir lesson347.mp4 -  Find and Add a Book to Reading List Solution 02
+
+Old Dir lesson348.mp4
+New Dir lesson348.mp4 -  Mark Book as Read and Rate Solution 03
+
+Old Dir lesson349.mp4
+New Dir lesson349.mp4 -  Remove Book from Reading List Solution 04
+
+Old Dir lesson350.mp4
+New Dir lesson350.mp4 -  Build an Epic React App Outro
+
+Old Dir lesson351.mp4
+New Dir lesson351.mp4 -  Creating Open Source Libraries with Tanner Linsley
+
+Old Dir lesson352.mp4
+New Dir lesson352.mp4 - Animations and Interactions with Josh Comeau
+
+Old Dir lesson353.mp4
+New Dir lesson353.mp4 - Nextjs and Vercel with Guillermo Rauch
+
+Old Dir lesson354.mp4
+New Dir lesson354.mp4 - Building Reactbased Design Systems with Ben Ilegbodu
+
+Old Dir lesson355.mp4
+New Dir lesson355.mp4 - The React Ecosystem with Tejas Kumar
+
+Old Dir lesson356.mp4
+New Dir lesson356.mp4 - Encapsulation and Styling with Michael Chan
+
+Old Dir lesson357.mp4
+New Dir lesson357.mp4 - 3D Animation in the Browser with Paul Henschel
+
+Old Dir lesson358.mp4
+New Dir lesson358.mp4 - Best Practices for Maintainers with Jenn Creighton
+
+Old Dir lesson359.mp4
+New Dir lesson359.mp4 - Breaking into Tech with Samantha Bretous
+
+Old Dir lesson360.mp4
+New Dir lesson360.mp4 - Best Practices of ServerSide Rendering with Monica Powell
+
+Old Dir lesson361.mp4
+New Dir lesson361.mp4 - Mock Service Worker MSW with Artem Zakharchenko
+
+Old Dir lesson362.mp4
+New Dir lesson362.mp4 - React and React Native documentation with Rachel Nabors
+
+Old Dir lesson363.mp4
+New Dir lesson363.mp4 - React Developer Tools with Brian Vaughn
+
